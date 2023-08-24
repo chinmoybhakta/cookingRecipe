@@ -4,6 +4,8 @@
 4. dal
 5. onion
 6.garlic
+7. Mint
+8. Pudina
 
   Done...
 
